@@ -7,3 +7,4 @@ One more time just for good measure.
 Gotta try out VIM
 Had a weird VIM error message.
 Fuck VIM bro. That shit is whacked. Just always use git commit -m "your text".
+Alright got VIM workflow in the bag. I'm good. Prefer the git commit -m method though.

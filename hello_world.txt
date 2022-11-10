@@ -4,3 +4,5 @@ One more time. Just for good measure.
 Making a change to try out VIM editor in Terminal.
 Had a weird VIM error message.
 Fuck VIM bro. That shit is whacked. Just always use git commit -m "your text".
+
+FINALLLLYYYY. I got VIM workflow working and made notes on how to use it. I prefer the git commit -m option through. Less bs.
