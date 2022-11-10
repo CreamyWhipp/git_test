@@ -3,3 +3,4 @@ More text just to see if I can stage and commit by myself.
 One more time. Just for good measure.
 Making a change to try out VIM editor in Terminal.
 Had a weird VIM error message.
+Fuck VIM bro. That shit is whacked. Just always use git commit -m "your text".

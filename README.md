@@ -6,3 +6,4 @@ Adding some text. And again, this is just to see if I can stage and commit by my
 One more time just for good measure.
 Gotta try out VIM
 Had a weird VIM error message.
+Fuck VIM bro. That shit is whacked. Just always use git commit -m "your text".
